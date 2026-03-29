@@ -63,8 +63,8 @@ justice-ai-project/
 ### 🔥 1. Clone the Repository
 
 ```
-git clone <your-repo-link>
-cd justice-ai-project
+git clone https://github.com/Shansit007/Justice_AI.git
+cd Justice_AI
 ```
 
 ---
