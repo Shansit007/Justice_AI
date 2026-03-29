@@ -1,0 +1,16 @@
+[project]
+name = "epics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=1.0.5",
+    "langchain-chroma>=1.0.0",
+    "langchain-community>=0.4.1",
+    "langchain-ollama>=1.0.0",
+    "langchain-openai>=1.0.2",
+    "langchain-text-splitters>=1.0.0",
+    "pandas>=2.3.3",
+    "pypdf>=6.2.0",
+]
